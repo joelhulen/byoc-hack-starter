@@ -1,0 +1,13 @@
+/workspaces/byoc-hack-starter/src/Common/bin/Debug/net8.0/Common.deps.json
+/workspaces/byoc-hack-starter/src/Common/bin/Debug/net8.0/Common.dll
+/workspaces/byoc-hack-starter/src/Common/bin/Debug/net8.0/Common.pdb
+/workspaces/byoc-hack-starter/src/Common/obj/Debug/net8.0/Common.csproj.AssemblyReference.cache
+/workspaces/byoc-hack-starter/src/Common/obj/Debug/net8.0/Common.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/byoc-hack-starter/src/Common/obj/Debug/net8.0/Common.AssemblyInfoInputs.cache
+/workspaces/byoc-hack-starter/src/Common/obj/Debug/net8.0/Common.AssemblyInfo.cs
+/workspaces/byoc-hack-starter/src/Common/obj/Debug/net8.0/Common.csproj.CoreCompileInputs.cache
+/workspaces/byoc-hack-starter/src/Common/obj/Debug/net8.0/Common.sourcelink.json
+/workspaces/byoc-hack-starter/src/Common/obj/Debug/net8.0/Common.dll
+/workspaces/byoc-hack-starter/src/Common/obj/Debug/net8.0/refint/Common.dll
+/workspaces/byoc-hack-starter/src/Common/obj/Debug/net8.0/Common.pdb
+/workspaces/byoc-hack-starter/src/Common/obj/Debug/net8.0/ref/Common.dll
